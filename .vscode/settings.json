@@ -1,0 +1,7 @@
+{
+    "editor.linkedEditing": true,
+    "editor.guides.bracketPairs": true,
+    "notebook.breadcrumbs.showCodeCells": true,
+    "breadcrumbs.showArrays": true,
+    "editor.stickyScroll.enabled": true
+}
