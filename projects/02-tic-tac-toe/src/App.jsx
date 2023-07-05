@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import confetti from 'canvas-confetti'
 
 import { Square } from './components/Square.jsx'
@@ -55,11 +55,7 @@ function App () {
       setWinner(false) // empate
     }
   }
-
-  useEffect(() => {
-    console.log('useEffect')
-  })
-
+  
   return (
     <main className='board'>
       <h1>Tic tac toe</h1>
