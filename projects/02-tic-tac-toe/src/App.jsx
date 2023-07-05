@@ -55,7 +55,7 @@ function App () {
       setWinner(false) // empate
     }
   }
-  
+
   return (
     <main className='board'>
       <h1>Tic tac toe</h1>
