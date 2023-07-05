@@ -73,3 +73,7 @@ button:focus-visible {
 body.no-cursor {
   cursor: none;
 }
+
+body.no-cursor {
+  cursor: none;
+}
